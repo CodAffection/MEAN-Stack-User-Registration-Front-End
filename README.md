@@ -15,8 +15,9 @@ alt="Video Tutorial for MEAN Stack User Registration" width="500" height="400" b
 
 # MEAN Stack Tutorial Hierarchy
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
-2. User Registration - Node JS Back End ➤ https://goo.gl/CMnPwe
-3. User Registration - Angualr 6 Front End ➤ this one.
+2. User Registration <br/>
+      Node JS Back End    ➤ https://goo.gl/CMnPwe <br/>
+      Angualr 6 Front End ➤ this one.
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
