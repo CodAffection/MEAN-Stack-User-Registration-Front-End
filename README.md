@@ -9,9 +9,9 @@ Install npm packages using 'npm install' command Project Folders (Server and Ang
  Text Article : https://goo.gl/vuzrDP <br/>
  Video Tutorial : https://goo.gl/xivk4x
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=xxxxx
-" target="_blank"><img src="http://img.youtube.com/vi/xxxxxxxx/0.jpg" 
-alt="Video Tutorial for MEAN Stack User Registration" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=V9zDNfVs7Z4
+" target="_blank"><img src="http://img.youtube.com/vi/V9zDNfVs7Z4/0.jpg" 
+alt="Video Tutorial for MEAN Stack User Registration Form in Angular 6" width="500" height="400" border="10" /></a>
 
 # MEAN Stack Tutorial Hierarchy
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
