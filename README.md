@@ -6,8 +6,8 @@ Install npm packages using 'npm install' command Project Folders (Server and Ang
  
  # Step By Step Explanation
  
- Text Article : coming soon... <br/>
- Video Tutorial : coming soon...
+ Text Article : https://goo.gl/vuzrDP <br/>
+ Video Tutorial : https://goo.gl/xivk4x
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=xxxxx
 " target="_blank"><img src="http://img.youtube.com/vi/xxxxxxxx/0.jpg" 
