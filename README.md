@@ -17,7 +17,9 @@ alt="Video Tutorial for MEAN Stack User Registration Form in Angular 6" width="5
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
 2. User Registration <br/>
       Node JS Back End    ➤ https://goo.gl/CMnPwe <br/>
-      Angualr 6 Front End ➤ this one.
+      Angualr 6 Front End ➤ this one. <br/>
+3. JWT Authentication <br/>
+    Node JS Back End  ➤ https://goo.gl/9tWHXo
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
